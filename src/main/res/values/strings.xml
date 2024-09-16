@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">AutoAvto</string>
+    <string name="LogIn">Логин</string>
+    <string name="LogInPass">Пароль</string>
+    <string name="LogInHint">Введите логин</string>
+    <string name="LogInPassHint">Введите пароль</string>
+    <string name="title_activity_main">AutoAvto</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_main">Гараж</string>
+    <string name="menu_notes">Заметки</string>
+    <string name="menu_settings">Настройки</string>
+    <string name="menu_about">О программе</string>
+
+    <string name="create_car_choose_1">Выберите машину</string>
+    <string name="create_car_choose_2">Выберите последнее пройденное ТО</string>
+
+    <string name="choose_TO_0">ТО - 0 (еще не пройден)</string>
+    <string name="choose_TO_1">ТО - 1</string>
+    <string name="choose_TO_2">ТО - 2</string>
+    <string name="choose_TO_3">ТО - 3</string>
+    <string name="choose_TO_4">ТО - 4</string>
+    <string name="choose_TO_5">ТО - 5</string>
+    <string name="choose_TO_6">ТО - 6</string>
+    <string name="choose_TO_7">ТО - 7</string>
+
+    <string name="new_note">Создание</string>
+    <string name="name_note_hint">Имя заметки</string>
+    <string name="text_note_hint">Содержимое</string>
+    <string name="text_note_check">Просмотр</string>
+    <string name="back">Назад</string>
+
+    <string name="dialog_button_accept">Да</string>
+    <string name="dialog_button_disaccept">Отмена</string>
+    <string name="dialog_title">Подтверждение</string>
+    <string name="dialog_deleteNote_sub_title">Вы точно хотите удалить заметку?</string>
+    <string name="dialog_create_url_browser">Вы хотите найти эту деталь в интернете?</string>
+    <string name="channel_name">Alarm</string>
+    <string name="channel_description">createAlarm</string>
+    <string name="notifyRemember">А вы готовы к ТО?</string>
+    <string name="abouttext">Авторы проекта - Захаркин Вадим и Григорьев Алексей</string>
+</resources>
